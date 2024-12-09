@@ -63,4 +63,4 @@ jobs:
           app-name: 'webapp18'
           slot-name: 'webalmog'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D7037174160A4022A6EB0E2F63593C97 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_3E1C6C44FCBD47A4825F5D850A790C29 }}
